@@ -1,0 +1,37 @@
+{
+  "name": "cryptonote-util",
+  "version": "0.0.1",
+  "main": "cryptonote",
+  "author": {
+    "name": "john dev",
+    "email": "bitcoindev2014@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrcoin339/cryptonote-util.git"
+  },
+  "dependencies": {
+    "bindings": "*"
+  },
+  "keywords": [
+    "cryptonight",
+    "cryptonote"
+  ],
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "gypfile": true,
+  "readme": "Node-Cryptonote-Util\n====================\n\nDependencies\n------------\n\n* Boost (http://www.boost.org/)",
+  "readmeFilename": "README.md",
+  "description": "Node-Cryptonote-Util ====================",
+  "bugs": {
+    "url": "https://github.com/mrcoin339/cryptonote-util/issues"
+  },
+  "homepage": "https://github.com/mrcoin339/cryptonote-util",
+  "_id": "cryptonote-util@0.0.1",
+  "dist": {
+    "shasum": "c8c5402cdd63e3846818a1cdf32f7da12fdf5233"
+  },
+  "_resolved": "git://github.com/fancoder/node-cryptonote-util.git",
+  "_from": "git://github.com/fancoder/node-cryptonote-util.git"
+}
